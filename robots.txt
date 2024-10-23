@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corphenti.github.io/corphenti.corphenti
+Sitemap: https://corphenti.github.io/app/corphenti.corphenti
+Sitemap: https://corphenti.github.io/assets/corphenti.corphenti
+Sitemap: https://corphenti.github.io/css/corphenti.corphenti
+Sitemap: https://corphenti.github.io/includes/corphenti.corphenti
+Sitemap: https://corphenti.github.io/item/corphenti.corphenti
+Sitemap: https://corphenti.github.io/src/corphenti.corphenti
